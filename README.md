@@ -29,12 +29,7 @@ Contributions are welcome! Please feel free to submit pull requests with:
 - New OSINT tools and resources
 - Updated search queries and dorks
 - Improvements to existing content
-- Bug fixes and corrections
 
 ## Disclaimer
 
 This repository is for educational and authorized security research purposes only. Users are responsible for ensuring their activities comply with applicable laws and regulations. The repository maintainer assumes no liability for misuse of this information.
-
-## License
-
-[MIT]
